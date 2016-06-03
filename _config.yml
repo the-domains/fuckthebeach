@@ -1,0 +1,28 @@
+name: fuckthebeach
+favicon: null
+layout_spectrum: 0.3130093726795167
+typography_spectrum: 0.6721271488349885
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.39421859523281455
+  lightness: 0.8059113472700119
+  saturation: 0.6333606468979269
+  rhythmicContrast: 0.46015367144718766
+purpose: []
