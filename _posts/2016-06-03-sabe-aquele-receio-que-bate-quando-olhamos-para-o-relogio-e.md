@@ -7,8 +7,8 @@ keywords: []
 description: >-
   Sabe aquele receio que bate quando olhamos para o relógio e percebemos que a
   festa está acabando? O povo colocando a camisa,
-datePublished: '2016-07-14T15:58:39.854Z'
-dateModified: '2016-07-14T15:58:38.546Z'
+datePublished: '2016-07-14T16:01:23.509Z'
+dateModified: '2016-07-14T16:01:22.363Z'
 title: ''
 author: []
 sourcePath: >-
@@ -20,8 +20,6 @@ url: sabe-aquele-receio-que-bate-quando-olhamos-para-o-relogio-e/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ae6ac6db-b0be-41fd-8485-2de6363540a7.jpg)
-
 Sabe aquele receio que bate quando olhamos para o relógio e percebemos que a festa está acabando? O povo colocando a camisa,
 
 ajeitando os óculos, uma certa atmosfera de sobriedade eminente no ar? No entanto, você, mesmo diante disso tudo e com o sol na cachola, quer se esconder, entrar num casulo e dividir mais momentos, por que não?
@@ -190,3 +188,4 @@ TUTZ DEYTCH
 
 VIVI SEIXAS
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/25dced34-2595-45ab-b092-08d7dc9a23ac.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/561e8c47-2fc1-4750-8ced-20f65f88a07e.jpg)
