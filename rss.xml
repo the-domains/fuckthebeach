@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[fuckthebeach]]></title>
         <description><![CDATA[fuckthebeach]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/fuckthebeach/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 03 Jun 2016 12:57:25 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 14 Jul 2016 15:52:05 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/fuckthebeach/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Sabe aquele receio que bate quando olhamos para o relógio e percebemos que a festa está acabando? O povo colocando a camisa,</p>]]></description>
-            <link>undefinedsabe-aquele-receio-que-bate-quando-olhamos-para-o-relogio-e/index.html</link>
+            <link>https://thegrid.ai/fuckthebeach/sabe-aquele-receio-que-bate-quando-olhamos-para-o-relogio-e/index.html</link>
             <guid isPermaLink="false">01674596-53dd-4d0d-864c-a4b6560c0497</guid>
-            <pubDate>Fri, 03 Jun 2016 12:57:24 GMT</pubDate>
+            <pubDate>Thu, 14 Jul 2016 15:51:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
