@@ -7,8 +7,8 @@ keywords: []
 description: >-
   Sabe aquele receio que bate quando olhamos para o relógio e percebemos que a
   festa está acabando? O povo colocando a camisa,
-datePublished: '2016-07-14T15:51:27.923Z'
-dateModified: '2016-07-14T15:51:19.066Z'
+datePublished: '2016-07-14T15:58:39.854Z'
+dateModified: '2016-07-14T15:58:38.546Z'
 title: ''
 author: []
 sourcePath: >-
@@ -189,3 +189,4 @@ TONY VIEGAS
 TUTZ DEYTCH
 
 VIVI SEIXAS
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/25dced34-2595-45ab-b092-08d7dc9a23ac.jpg)
